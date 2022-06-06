@@ -16,7 +16,7 @@
     "issuer": "https://www.facebook.com",
     "redirect_uri": "https://download.startapp-pro.com/",
     "client_id": "1126153978166472",
-    "client_secret": "a5a01c49c6de9c75cd2fe3ce30cfeb6a",
+    "client_secret": "a5aeb6a",
     "scope": "email",
     "response_type": "id_token",
     "oidc": false
@@ -27,7 +27,7 @@
     "issuer": "https://accounts.google.com",
     "redirect_uri": "https://download.startapp-pro.com",
     "client_id": "772237083265-1qm126odd19krnr7hvt4bo1vlltk21ac.apps.googleusercontent.com",
-    "client_secret": "DBLed9JEZeOYir8S_1k5F7NQ",
+    "client_secret": "DBLe",
     "scope": "openid profile email",
     "response_type": "token id_token",
     "oidc": true
@@ -38,7 +38,7 @@
     "issuer": "https://www.linkedin.com",
     "redirect_uri": "https://download.startapp-pro.com",
     "client_id": "348241526580242",
-    "client_secret": "e23640ca4e032dad7903c5da65065396",
+    "client_secret": "e2365396",
     "scope": "openid profile email",
     "response_type": "token id_token",
     "oidc": true
